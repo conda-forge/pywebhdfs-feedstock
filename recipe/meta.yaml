@@ -32,7 +32,7 @@ test:
 
 about:
   home: https://github.com/pywebhdfs/pywebhdfs/
-  license: Apache 2.0
+  license: Apache-2.0
   summary: Python wrapper for the hadoop WebHDFS Rest API
   license_file: LICENSE
 
